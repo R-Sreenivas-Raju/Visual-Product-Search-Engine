@@ -1,0 +1,9 @@
+==================================================
+BATCH EVALUATION RESULTS (End-to-End Pipeline)
+==================================================
+Recall@5:  0.9020  |  NDCG@5:  0.7924  |  mAP@5:  0.7497
+Recall@10: 0.9380  |  NDCG@10: 0.8273  |  mAP@10: 0.7720
+Recall@15: 0.9520  |  NDCG@15: 0.8499  |  mAP@15: 0.7885
+==================================================
+
+Note: These metrics represent pure visual query inference (simulating a real user uploading a raw photo). For fused-modality upper bounds (98.2%), refer to the Kaggle ablation study.

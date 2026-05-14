@@ -1,0 +1,28 @@
+# Large data files - download from Kaggle
+cropped_img/
+clip_ft_s456/
+s456_gvC.npy
+s456_gal.csv
+s456_qry.csv
+
+# Auto-downloaded model weights
+yolov8n.pt
+
+# Utility/temp scripts
+make_query_csv.py
+
+# Personal test images
+*.avif
+*.jpg
+*.jpeg
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
